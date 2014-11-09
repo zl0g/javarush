@@ -10,7 +10,6 @@ public class Cat
 
     public static void addNewCat()
     {
-//        Cat cat = new Cat();
         catsCount++;
     }
 }
